@@ -1,15 +1,15 @@
 <div align="center">
 
-## Its_me_Amal 
+## Its_me_RoshanSer
 
 <div align="center">
-  <img src=Roshan Ser.jpeg>
+  <img src=https://github.com/RoshanSer/RoshanSer_v2/blob/master/Roshan%20Ser.jpeg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Lvtl7GqERfP19Na6M2wndX)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/KequP491eI1IVVipViyWQP)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoshanSer&repo=RoshanSer_v2&theme=nightowl)](https://github.com/RoshanSer/RoshanSer_v2)
@@ -45,10 +45,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Amalser](<img src=https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg>
- https://github.com/Amalser_v1 |  
+  [![RoshanSer](<img src=https://github.com/RoshanSer/RoshanSer_v2/blob/master/Roshan%20Ser.jpeg>
+ https://github.com/RoshanSer |  
 ----|
-[Its_me_RoshanSer](https://github.com/RoshanSer)  |
+[Its_me_RoshanSer](https://github.com/MohammedRoshanT)  |
 Base, Bug Fixes, Modules | 
   
     
