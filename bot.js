@@ -82,7 +82,7 @@ async function whatsAsena () {
 
     conn.on ('credentials-updated', async () => {
         console.log(
-            chalk.blueBright.italic('✅ Login information updated!')
+            chalk.blueBright.italic('✅ RoshanSer Login information updated!')
         );
 
         const authInfo = conn.base64EncodedAuthInfo();
@@ -107,7 +107,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         );
 
         console.log(
-            chalk.blueBright.italic('⬇️ Installing external plugins...')
+            chalk.blueBright.italic('⬇️ Installing external plugins for RoshanSer...')
         );
 
         var plugins = await plugindb.PluginDB.findAll();
@@ -123,7 +123,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.blueBright.italic('⬇️  Installing plugins...')
+            chalk.blueBright.italic('⬇️  Installing plugins for RoshanSer...')
         );
 
         fs.readdirSync('./plugins').forEach(plugin => {
@@ -245,7 +245,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, 'RoshanSer Bot_🐱_[error] ' +
+                                await conn.sendMessage(conn.user.jid, 'RoshanSer Bot _Error_ ' +
                                     '\n\n*👻 ' + error + '*\n'
                                     , MessageType.text);
                             }
