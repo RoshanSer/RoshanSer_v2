@@ -20,8 +20,8 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Created by Roshan with Amalser*
    
- *Github:  https://github.com/RoshanSer/RoshanSer_v2*
-   
+ *Github:  { Closed for maintenance }
+
  *Join Whatsapp group:* https://chat.whatsapp.com/KequP491eI1IVVipViyWQP
 
 `}) 
