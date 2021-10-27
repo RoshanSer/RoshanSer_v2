@@ -3,7 +3,7 @@
     "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://github.com/RoshanSer/RoshanSer_v2/blob/master/Roshan%20Ser.jpeg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/https://github.com/RoshanSer/RoshanSer_v2",
+    "repository": "https://github.com/RoshanSer/RoshanSer_v2",
     "website":   "maintainence",
     "success_url": "maintainence",
     "stack": "container",
@@ -55,7 +55,11 @@
             "description": "reply for .owner ! give your details, Use => default, to change back.",
             "required": false,
             "value": "Roshan"
-        },    
+        }, 
+        "SUPPORT_LINK": {
+            "description": "Your support group link for .support command.",
+            "required" : false
+         },
         "HANDLERS": {
             "description": "Komutlar için. For commands.",
             "required": true,
