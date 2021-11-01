@@ -75,7 +75,7 @@
         },
         "heroku": {
             "RESTART_DESC": "Restart WhatsAsena",
-            "RESTART_MSG": "```Amalser Restarting...please wait Bro 5mints...😌```",
+            "RESTART_MSG": "```RoshanSer Restarting...please wait Bro 5mints...😌```",
             "SHUTDOWN_DESC": "Shutdown WhatsAsena",
             "SHUTDOWN_MSG": "```Shutting down ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
@@ -229,7 +229,7 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*RishanSer bot is completely up-to-date!*",
+            "UPDATE": "*RoshanSer bot is completely up-to-date!*",
             "NEW_UPDATE": "*RoshanSer bot Update found for updating. use command*\n\n*.update now*\n\n*please ask supporting group before updating*\n\nhttps://chat.whatsapp.com/KequP491eI1IVVipViyWQP\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Updating..please wait bro 5mins😊```",
