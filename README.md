@@ -4,7 +4,7 @@
 ## Its_me_RoshanSer
 
 <div align="center">
-  <img src=https://github.com/RoshanSer/RoshanSer_v2/blob/master/Roshan%20Ser.jpeg>
+  <img src=https://i.postimg.cc/VLM54Jdx/Roshan-Ser.jpg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
